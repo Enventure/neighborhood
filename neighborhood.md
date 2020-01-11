@@ -7,25 +7,24 @@ paginate: true
 ---
 
 <!--
+_class: blue
 _paginate: false
 _backgroundImage: "radial-gradient(circle farthest-corner at 34% 52%,rgba(114,184,227,.88),rgba(0,145,234,.92) 50%,rgba(17,47,110,.95)),url(https://uploads-ssl.webflow.com/593c5902e5608a435f48c620/59e90ec930dfca0001a844e5_banner%20Bioventures%202017%20and%20alums.jpg)"
 -->
 
-<style scoped>
-h6{color: white;}
-</style>
-
 ###### enventure.
 
 ---
+<!-- _class: left -->
 
 ###### enventure 3.0
 
 *investing in community*
 
 **Initial Strategy**
-Will Clifton, MD	co-founder // Enventure
-Director of Medical Innovation // Rice University
+Will Clifton, MD
+* Co-founder // Enventure
+* Director of Medical Innovation // Rice University
 
 
 ---
@@ -69,7 +68,7 @@ need grad student housing
 
 * <2 mi from TMC
 * estimated 15 anchor tenants + 16 grad students
-* `>51% low income
+* \>51% low income
 * recruiting from grad student housing services and RA communities
 * co-op structure?
 * est. $10M development
