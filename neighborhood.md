@@ -59,11 +59,12 @@ enventure Basecamp @ HQ
 
 ---
 
-# problem
+# gap
 
-* grad students looking for affordable housing
+* affordable, high-quality housing for grad students
 * home base for enventure operations and events
-* 
+* central location w/ proximity to TMC
+* share life with friends / colleagues w/ common interest
 
 ---
 
