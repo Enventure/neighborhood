@@ -23,9 +23,9 @@ _backgroundImage: "radial-gradient(circle farthest-corner at 34% 52%,rgba(114,18
 
 **Initial Strategy**
 Will Clifton, MD
-* Co-founder // Enventure
-* Director of Medical Innovation // Rice University
 
+- Co-founder // Enventure
+- Director of Medical Innovation // Rice University
 
 ---
 
@@ -43,9 +43,10 @@ a district forming a community within a town or city
 intentional
 collaborative
 affordable
-community-
--living and -working
-for healthcare
+community
+
+**co-living and co-working
+for healthcare**
 
 ---
 <!-- _class: blue -->
@@ -54,11 +55,15 @@ for healthcare
 
 # example
 
+enventure Basecamp @ HQ
+
 ---
 
 # problem
 
-need grad student housing
+* grad students looking for affordable housing
+* home base for enventure operations and events
+* 
 
 ---
 
@@ -66,27 +71,30 @@ need grad student housing
 
 # solution
 
-* <2 mi from TMC
-* estimated 15 anchor tenants + 16 grad students
-* \>51% low income
-* recruiting from grad student housing services and RA communities
-* co-op structure?
-* est. $10M development
-* event space, networking
+* co-living and co-working home for enventure, healthcare community
+* walk / bike to TMC, ion, rail
+* young professionals, families, and grad students
+* shared living, kitchen, outdoor space
+* mix of single family, dorm style, and multi-room homes
+* event space, shared workspaces
 
 ---
 
 # unique
 
-because
+* healthcare common interest theme
+* community hub, event space, networking
+* captive, renewing source for typically transient tenants
+
+![bg left:60%](https://a0.muscache.com/im/pictures/4575a6fe-c7cc-4710-bbfa-d6cb3c8121ee.jpg?aki_policy=xx_large)
 
 ---
 
 # traction
 
-* customers
-* developers
-* investors
+* customers- 25 young professionals and families, "unlimited" grad students, continuously refreshing customer base through enventure org
+* investors- [NextSeed](https://www.nextseed.com/about/team) investor team, [track record](https://www.nextseed.com/offerings/) of community investments, qualified opportunity fund
+* developers- experienced, cost-effective local [team](https://www.airbnb.com/rooms/37126636?source_impression_id=p3_1578787547_BnbOQyWEnAtpLvZz)
 
 ---
 
@@ -96,23 +104,39 @@ because
     <!--1) Tax deferral for capital gain invested in a qualified Opportunity Zone fund
     2) Elimination of up to 15% of the tax on capital gains invested in the qualified Opportunity Zone fund
     3) Potential elimination of tax when exiting a qualified opportunity fund investment-->
-* [low-income housing tax credit](https://www.tdhca.state.tx.us/multifamily/index.htm) - 4-9% income tax credit
+* [low-income housing tax credit](https://www.tdhca.state.tx.us/multifamily/index.htm) - 4-9% income tax credit if >50% low-income residents (grad students)
 * [multifamily direct loan program](https://www.tdhca.state.tx.us/multifamily/home/index.htm) - low interest construction loans
 
 <!-- 9% program preference for non-profits-->
 
 ---
 
-![](oz.png)
+![bg right](oz.png)
+
+# opportunity zones in houston
+
+---
+
+# business model questions
+
+* % donation to enventure non-profit?
+* co-op- % of revenue returned thru a dividend?
+* other ways for renters to be "invested"?
 
 ---
 
 # plan
 
-* ~$10M
-* 5 acres
+* ~$10M development
+* ~5 acres- develop 1-2 acres at a time
+* start as co-living
+* expand into co-working, maker space, etc
+* develop as little as possible to prove concept
+* application process for rent-reduction
 
 ---
+
+<!-- _class: blue -->
 
 # next steps / asks
 
@@ -127,3 +151,14 @@ because
     https://mermaid-js.github.io/mermaid/#/flowchart
     https://commonmark.org/help/
 -->
+
+---
+<!-- _class: blue -->
+
+![w:75](https://uploads-ssl.webflow.com/593c5902e5608a435f48c620/59e945d9a71c7d000190e2e8_logo-512w.png)
+
+###### neigh·bor·hood
+
+/ˈnābərˌho͝od/
+a district forming a community within a town or city
+:heart:
