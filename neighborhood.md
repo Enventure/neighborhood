@@ -126,14 +126,33 @@ enventure Basecamp @ HQ
 
 ---
 
+# structure
+
+<div class="mermaid">
+graph TD;
+    0(LP)--90%--> A(Enventure Neighborhood):::dottedRed
+    B(GP):::pink--10%--> A
+   <!-- classDef pink fill:#f9f,stroke:#333,stroke-width:4px
+    classDef dottedRed fill:#ccf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5, 5-->
+</div>
+
+<!-- mermaid.js -->
+<script src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
+---
+
 # plan
 
-* ~$10M development
-* ~5 acres- develop 1-2 acres at a time
+* ~$5M development
+* ~2 acres- develop 1 acre at a time
 * start as co-living
 * expand into co-working, maker space, etc
 * develop as little as possible to prove concept
 * application process for rent-reduction
+* membership of various orgs
+* patient family housing
+* community event space
 
 ---
 

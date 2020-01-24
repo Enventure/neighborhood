@@ -48,3 +48,22 @@ section.blue h6{
 section.left {
     text-align: left;
 }
+
+dottedRed > rect{
+    fill:#ccf;
+    stroke:#f66;
+    stroke-width:2px;
+    stroke-dasharray: 5, 5;
+}
+
+pink > rect{
+    fill:#FF0000;
+    stroke:#FFFF00;
+    stroke-width:4px;
+}
+
+redYellow > rect{
+    fill:#FF0000;
+    stroke:#FFFF00;
+    stroke-width:4px;
+}
