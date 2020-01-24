@@ -130,10 +130,11 @@ enventure Basecamp @ HQ
 
 <div class="mermaid">
 graph TD;
-    0(LP)--90%--> A(Enventure Neighborhood):::dottedRed
-    B(GP):::pink--10%--> A
-   <!-- classDef pink fill:#f9f,stroke:#333,stroke-width:4px
-    classDef dottedRed fill:#ccf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5, 5-->
+    0(LP)--30%--> A(Enventure Neighborhood)
+    B(GP)--10%--> A
+    C(Bank)--60%--> A
+    class B,0,C card
+    class A blue
 </div>
 
 <!-- mermaid.js -->
@@ -153,6 +154,7 @@ graph TD;
 * membership of various orgs
 * patient family housing
 * community event space
+* buy out LPs after 2 years living there?
 
 ---
 

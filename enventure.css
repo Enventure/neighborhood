@@ -49,21 +49,53 @@ section.left {
     text-align: left;
 }
 
-dottedRed > rect{
+.dottedRed > rect{
     fill:#ccf;
     stroke:#f66;
     stroke-width:2px;
     stroke-dasharray: 5, 5;
 }
 
-pink > rect{
+.pink > rect{
+    fill:#f9f;
+    stroke:#333;
+    stroke-width:4px
+}
+
+.redYellow > rect{
     fill:#FF0000;
     stroke:#FFFF00;
     stroke-width:4px;
 }
 
-redYellow > rect{
-    fill:#FF0000;
-    stroke:#FFFF00;
-    stroke-width:4px;
+.lightBlue > rect{
+    rx: 6px;
+    ry: 6px;
+    fill: rgba(0,145,234,.5);
+    stroke: none;
+}
+
+.blue > rect{
+    rx: 6px;
+    ry: 6px;
+    fill: #0091ea;
+    stroke: none;
+}
+
+.card > rect{
+    rx: 3px;
+    ry: 3px;
+    fill: #fff;
+    stroke: #333;
+}
+
+span.edgeLabel{
+    background-color: white;
+    padding: 5px;
+    -webkit-filter: drop-shadow(0 1px 2px rgba(0,0,0,.24));
+    filter: drop-shadow(0 1px 2px rgba(0,0,0,.24));
+}
+
+.label{
+    font-family: inherit;
 }
