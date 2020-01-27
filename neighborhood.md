@@ -130,16 +130,34 @@ enventure Basecamp @ HQ
 
 <div class="mermaid">
 graph TD;
-    0(LP)--30%--> A(Enventure Neighborhood)
-    B(GP)--10%--> A
+    0(LP)--40%--> A(Neighborhood Fund I, LP)
+    B(GP<p>Neighborhood Real Estate Group, LLC</p>)--> A
     C(Bank)--60%--> A
+    1(Investor 1<p>Neighborhood Real Estate Group, LLC</p>)--> 0
+    2(Investor 2)--> 0
+    3(Investor 3)--> 0
     class B,0,C card
     class A blue
 </div>
 
+GP = management, consists of 2-3 active single family tenants, $100-$250k investment each
+LP = pool of other investors
+
 <!-- mermaid.js -->
 <script src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({startOnLoad:true});</script>
+
+---
+
+![bg contain](https://www.asimplemodel.com/assets/files/PE%20Fund%20Structure%20201701.jpg)
+
+
+---
+
+# waterfall
+
+1) 100% of all cash inflows to the GP/LP split equal to the ratio invested until the cumulative distributions equal the original capital invested plus 8% per annum.
+2) 
 
 ---
 
@@ -172,6 +190,8 @@ graph TD;
     https://marpit.marp.app/>
     https://mermaid-js.github.io/mermaid/#/flowchart
     https://commonmark.org/help/
+    https://www.capitalfundlaw.com/hubfs/Capitalfundlaw%20June2017/PDF/Private-Equity-Fund-Sample-PPM-11.pdf
+    https://www.asimplemodel.com/reference/71/private-equity-fund-structure/
 -->
 
 ---
@@ -184,3 +204,5 @@ graph TD;
 /ˈnābərˌho͝od/
 a district forming a community within a town or city
 :heart:
+
+<script src="https://kit.fontawesome.com/f1037dd8e8.js" crossorigin="anonymous"></script>

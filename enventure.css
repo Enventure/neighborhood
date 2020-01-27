@@ -99,3 +99,7 @@ span.edgeLabel{
 .label{
     font-family: inherit;
 }
+
+.label p {
+    font-size: 0.5em;
+}
